@@ -16,6 +16,12 @@ Key requirements include:
 Go [here](https://dashboard.cohere.com/api-keys) to get an API key for the Cohere chatbot. The key is free for personal use, but costs for enterprise use. If you decide your company can benefit from RAG or Gen AI, you can consider using Cohere or stand-up your own LLMs using other free models and tools.
 Copy the key into the config.py file to use to connect the client.
 
+## Presentation Slides
+
+The slides are under presentation/genai_intro.slides.html , converted from jupyter notebook of same name.
+
+
+
 
 
 
