@@ -2,11 +2,13 @@
 Use this repo to play with RAG using the Python Cohere library. This walkthrough uses examples from Cohere's guide to making a [rag enabled chatbot](https://cohere.com/blog/rag-chatbot), but skips the need for the unstructured- library dependency. Unstructured is fantastic for chunking websites and documents into vector friendly pieces, so you should definitely check it out of interested.
 
 ## Setup
+
 Create an environment such as "cohere_demo" with Python == 3.10. After activating the environment, install other requirements using: 
 ```pip install -r requirements.txt```
+**Note**: if you are on windows, you may need to install visual studio c++ to use [HNSWlib](https://js.langchain.com/docs/integrations/vectorstores/hnswlib)
 
 Key requirements include:
-- cohere: includes a chat client for Cohere's LLM, an embedder, and a reranker all in one library
+- cohere: includes a chat client for Cohere's LLM and a reranker all in one library
 - hnswlib for the vector library
 - pandas for basic etl with csv text
 
