@@ -20,6 +20,8 @@ Copy the key into the config.py file to use to connect the client.
 
 The slides are under presentation/genai_intro.slides.html , converted from jupyter notebook of same name.
 
+There's a video!
+
 
 
 
