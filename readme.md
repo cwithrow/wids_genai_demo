@@ -1,5 +1,5 @@
 # Cohere GenAI demo for WiDS
-Use this repo to play with RAG using the Python Cohere library. This walkthrough uses examples from Cohere's guide to making a [rag enabled chatbot](https://cohere.com/blog/rag-chatbot), but skips the need for the unstructured- library dependency. Unstructured is fantastic for chunking websites and documents into vector friendly pieces, so you should definitely check it out of interested.
+Use this repo to play with RAG using the Python Cohere library. This walkthrough uses examples from Cohere's guide to making a [RAG enabled chatbot](https://cohere.com/blog/rag-chatbot), but skips the need for the unstructured- library dependency. Unstructured is fantastic for chunking websites and documents into vector friendly pieces, so you should definitely check it out of interested.
 
 ## Setup
 
