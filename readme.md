@@ -22,7 +22,7 @@ The slides are under presentation/genai_intro.slides.html , converted from jupyt
 
 ## Video of presentation
 
-Click here for the video with intro from slides and walking through the notebook: [WiDS DC 2024- GenAI_RAG intro ](https://youtu.be/58PDft2qMZY)
+Click here for the video with intro from slides and walking through the notebook: [WiDS DC 2024- GenAI_RAG intro ](https://youtu.be/ws6YhmuZtgw)
 
 
 
